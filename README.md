@@ -1,4 +1,6 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+En este portafolio encontrarás el challenge del amigo secreto, donde podras escribir el nombre de amigos y podras sortearlos para obtener al amigo secreto 
+
   
 ## Herramientas utilizadas:
 
